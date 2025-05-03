@@ -16,6 +16,10 @@ This program represents our first effort to obtain a list of countries. Although
 
 This script was our initial, unsuccessful attempt to define Canadian amateur radio bands for "Option A" of what would become the `DipoleToolKit`. This attempt highlighted the need for a structured table of band information. The subsequent approach involved utilizing the Radio Amateurs of Canada (RAC) online band plan to create a more accurate and comprehensive solution.
 
+### `RAC_Band-Ranges_v0.py`
+
+This script was a more successful attempt to define Canadian amateur radio bands for "Option A" to use in DipoleToolKit`. This attempt highlighted the use of Radio Amateurs of Canada (RAC) online band plan for a more accurate and comprehensive solution.
+
 ### `AntennaOffsetCorrector_v0.py`
 
 This program represents our first attempt to implement the antenna offset correction feature, which eventually became "Option B" in the final `DipoleToolKit`. This early version laid the groundwork for the more refined implementation in the toolkit.
