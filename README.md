@@ -19,7 +19,7 @@ Each script is designed to be run from the command line using Python. Simply nav
 
 ## Contributing:
 
-Contributions and comments are welcome. Feel free to submit pull requests or open issues for suggestions and bug reports.
+Contribution and comments are welcome. Feel free to submit pull requests or open issues for suggestions and bug reports.
 
 ## License:
 
