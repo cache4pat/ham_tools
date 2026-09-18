@@ -22,12 +22,3 @@ Each script is designed to be run from the command line using Python. Simply nav
 
 Contribution and comments are welcome. Feel free to submit pull requests or open issues for suggestions and bug reports.
 
-## License:
-
-This work is provided as is; without guarantees. It is based on my best understanding of the topices at this time.
-
-## Author:
-
-cache4pat - VA3PAF
-
----
